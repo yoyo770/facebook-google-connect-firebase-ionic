@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">facebook-google-connect-firebase</string>
+    <string name="title_activity_main">facebook-google-connect-firebase</string>
+    <string name="package_name">io.ionic.starter</string>
+    <string name="custom_url_scheme">io.ionic.starter</string>
+    <string name="fb_app_id">619307235450593</string>
+    <string name="fb_app_name">connect</string>
+</resources>
